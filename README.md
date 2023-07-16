@@ -17,12 +17,25 @@
 
 <img width="1677" alt="image" src="https://github.com/npsvip/begger/assets/95081538/171f9005-2678-4ca5-b90b-fdbf0b36efb1">
 
+# H2 console
+<img width="458" alt="image" src="https://github.com/npsvip/begger/assets/95081538/f03147ff-241b-415e-bf5b-2c561a6f902f">
+
+<img width="1678" alt="image" src="https://github.com/npsvip/begger/assets/95081538/2ede27d6-1789-4cd4-a1bf-f5d2b5ddf623">
+
+
 # 运行命令
 ```
 docker run -d --name beggar --restart=always -p 8080:8080 -e console=true -v /opt/beggar/log/:/opt/logs/beggar/ aeert/beggar:latest
 ```
 日志目录&nbsp;&nbsp;&nbsp;&nbsp;/opt/logs/beggar/<br/>
+H2 console&nbsp;&nbsp;&nbsp;true 打开<br/>
 H2数据库&nbsp;&nbsp;&nbsp;&nbsp;/beggar.mv.db 
+
+# 访问信息
+前端地址&nbsp;&nbsp;&nbsp;&nbsp;http://localhost:8080<br/>
+后端地址&nbsp;&nbsp;&nbsp;&nbsp;http://localhost:8080/admin/<br/>
+后端账户密码&nbsp;&nbsp;随意输入，之后会保存H2数据库
+H2 console&nbsp;&nbsp;JDBC URL: jdbc:h2:./beggar
 
 # 支付平台
 目前对接的是&nbsp;&nbsp;<a href="https://pay.npsvip.cn" target="_blank">蓝鲸支付</a>
