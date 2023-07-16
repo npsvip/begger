@@ -11,7 +11,11 @@
 
 <img width="1678" alt="image" src="https://github.com/npsvip/begger/assets/95081538/d3bee593-ad68-43e2-88b7-5558b7e2914f">
 
-<img width="1676" alt="image" src="https://github.com/npsvip/begger/assets/95081538/1baa0106-f6d6-457b-81ed-f2a7250b8742">
+<img width="1678" alt="image" src="https://github.com/npsvip/begger/assets/95081538/68cf6e68-85d9-4d71-b695-3e86efd23b86">
+
+<img width="1677" alt="image" src="https://github.com/npsvip/begger/assets/95081538/6011a1ed-035f-4749-ba32-c4ef227702cf">
+
+<img width="1677" alt="image" src="https://github.com/npsvip/begger/assets/95081538/171f9005-2678-4ca5-b90b-fdbf0b36efb1">
 
 # 运行命令
 ```
