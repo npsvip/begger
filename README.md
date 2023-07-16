@@ -15,7 +15,7 @@
 
 # 运行命令
 ```
-docker run -d --name beggar --restart=always -p 8080:8080 -e console=true -v /opt/beggar/log/:/beggar.mv.db  -v /opt/beggar/log/:/opt/logs/beggar/ aeert/beggar:latest
+docker run -d --name beggar --restart=always -p 8080:8080 -e console=true -v /opt/beggar/db/:/beggar.mv.db  -v /opt/beggar/log/:/opt/logs/beggar/ aeert/beggar:latest
 ```
 日志目录&nbsp;&nbsp;&nbsp;&nbsp;/opt/logs/beggar/<br/>
 H2数据库&nbsp;&nbsp;&nbsp;&nbsp;/beggar.mv.db 
