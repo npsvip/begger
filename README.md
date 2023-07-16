@@ -21,4 +21,4 @@ docker run -d --name beggar --restart=always -p 8080:8080 -e console=true -v /op
 H2数据库&nbsp;&nbsp;&nbsp;&nbsp;/beggar.mv.db 
 
 # 支付平台
-目前对接的是&nbsp;&nbsp;<a href="https://pay.npsvip.cn">蓝鲸支付</a>
+目前对接的是&nbsp;&nbsp;<a href="https://pay.npsvip.cn" target="_black">蓝鲸支付</a>
