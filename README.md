@@ -40,3 +40,6 @@ H2 console&nbsp;&nbsp;JDBC URL: jdbc:h2:./beggar
 
 # 支付平台
 目前对接的是&nbsp;&nbsp;<a href="https://pay.npsvip.cn" target="_blank">蓝鲸支付</a>
+
+# 版权信息
+Begger遵循 MIT License 协议，提供免费使用，请勿用于商业及非法用途,Begger不承担个人行为的任何违法责任。
