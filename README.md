@@ -26,6 +26,9 @@
 # 运行命令
 ```
 docker run -d --name beggar --restart=always -p 8080:8080 -e console=true -v /opt/beggar/log/:/opt/logs/beggar/ aeert/beggar:latest
+
+arm请使用 aeert/beggar:arm 或 aeert/beggar:arm64 镜像
+
 ```
 日志目录&nbsp;&nbsp;&nbsp;&nbsp;/opt/logs/beggar/<br/>
 H2 console&nbsp;&nbsp;&nbsp;true 打开<br/>
